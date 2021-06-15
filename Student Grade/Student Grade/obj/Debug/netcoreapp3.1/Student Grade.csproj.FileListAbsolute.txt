@@ -1,0 +1,11 @@
+I:\Evans code\SchoolCode\C#\Student Grade\Student Grade\bin\Debug\netcoreapp3.1\Student Grade.exe
+I:\Evans code\SchoolCode\C#\Student Grade\Student Grade\bin\Debug\netcoreapp3.1\Student Grade.deps.json
+I:\Evans code\SchoolCode\C#\Student Grade\Student Grade\bin\Debug\netcoreapp3.1\Student Grade.runtimeconfig.json
+I:\Evans code\SchoolCode\C#\Student Grade\Student Grade\bin\Debug\netcoreapp3.1\Student Grade.runtimeconfig.dev.json
+I:\Evans code\SchoolCode\C#\Student Grade\Student Grade\bin\Debug\netcoreapp3.1\Student Grade.dll
+I:\Evans code\SchoolCode\C#\Student Grade\Student Grade\bin\Debug\netcoreapp3.1\Student Grade.pdb
+I:\Evans code\SchoolCode\C#\Student Grade\Student Grade\obj\Debug\netcoreapp3.1\Student Grade.csprojAssemblyReference.cache
+I:\Evans code\SchoolCode\C#\Student Grade\Student Grade\obj\Debug\netcoreapp3.1\Student Grade.AssemblyInfoInputs.cache
+I:\Evans code\SchoolCode\C#\Student Grade\Student Grade\obj\Debug\netcoreapp3.1\Student Grade.AssemblyInfo.cs
+I:\Evans code\SchoolCode\C#\Student Grade\Student Grade\obj\Debug\netcoreapp3.1\Student Grade.dll
+I:\Evans code\SchoolCode\C#\Student Grade\Student Grade\obj\Debug\netcoreapp3.1\Student Grade.pdb
